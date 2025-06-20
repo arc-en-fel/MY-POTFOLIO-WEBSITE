@@ -29,7 +29,7 @@ function App() {
     {
       title: 'Personal Portfolio Website',
       description: 'This website! Built with React, TypeScript, and Framer Motion featuring modern animations.',
-      githubLink: 'https://github.com/arc-en-fel',
+      githubLink: 'https://github.com/arc-en-fel/MY-POTFOLIO-WEBSITE',
     },
   ];
 
