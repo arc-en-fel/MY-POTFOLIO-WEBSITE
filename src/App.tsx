@@ -31,6 +31,17 @@ function App() {
       description: 'This website! Built with React, TypeScript, and Framer Motion featuring modern animations.',
       githubLink: 'https://github.com/arc-en-fel/MY-POTFOLIO-WEBSITE',
     },
+      {
+      title: 'ZELION',
+      description: 'This website! Built with React, TypeScript, and Framer Motion featuring modern animations.',
+      githubLink: 'https://github.com/arc-en-fel/zelion',
+    },
+   {
+      title: 'CREDHEX',
+      description: 'This website! Built with React, TypeScript, and Framer Motion featuring modern animations.',
+      githubLink: 'https://github.com/arc-en-fel/MY-POTFOLIO-WEBSITE',
+    },
+ 
   ];
 
   const renderContent = () => {
