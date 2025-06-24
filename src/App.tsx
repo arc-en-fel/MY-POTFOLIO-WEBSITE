@@ -33,13 +33,13 @@ function App() {
     },
       {
       title: 'ZELION',
-      description: 'This website! Built with React, TypeScript, and Framer Motion featuring modern animations.',
+      description: 'A modern cricket store website',
       githubLink: 'https://github.com/arc-en-fel/zelion',
     },
    {
       title: 'CREDHEX',
-      description: 'This website! Built with React, TypeScript, and Framer Motion featuring modern animations.',
-      githubLink: 'https://github.com/arc-en-fel/MY-POTFOLIO-WEBSITE',
+      description: 'A cerificate vault',
+      githubLink: 'https://github.com/arc-en-fel/credhex',
     },
  
   ];
